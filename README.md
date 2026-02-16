@@ -151,10 +151,6 @@ I'm an **Electronics and Telecommunication student** passionate about turning **
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dumindudilshan&bg_color=0D1117&color=00D9FF&line=7B2CBF&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dumindudilshan&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
