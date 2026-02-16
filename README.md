@@ -144,36 +144,17 @@ I'm an **Electronics and Telecommunication student** passionate about turning **
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dumindudilshan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2CBF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dumindudilshan&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2CBF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumindudilshan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&hide=jupyter%20notebook" alt="Top Languages" />
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dumindudilshan&bg_color=0D1117&color=00D9FF&line=7B2CBF&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dumindudilshan&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
-<dir> 
-  <!-- GitHub Stats -->
-<p align="center">
- <img width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dumindudilshan&show_icons=true&theme=radical&hide_border=true" />
 
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumindudilshan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8" />
-</p>
-
-<!-- Trophies -->
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=dumindudilshan&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
-</dir>
 ---
 
 ## 🐍 Contribution Snake
