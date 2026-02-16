@@ -3,12 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=180&lines=Electronics+%26+Telecommunication+Student;Robotics+%7C+Embedded+Systems+%7C+IoT+Expert;From+Ideas+to+Reality+%F0%9F%9A%80;Building+the+Future%2C+One+Project+at+a+Time!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Electronics+%26+Telecommunication+Student;Robotics+%7C+Embedded+Systems+%7C+IoT+Expert;From+Ideas+to+Reality+%F0%9F%9A%80;Building+the+Future%2C+One+Project+at+a+Time!" alt="Typing SVG" />
 </div>
 
-<p>
-  .
-</p>  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dumindudilshan&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/dumindudilshan?label=Followers&style=for-the-badge&color=7B2CBF&labelColor=1c1917&logo=github" alt="Followers" />
