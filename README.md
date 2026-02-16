@@ -147,18 +147,6 @@ I'm an **Electronics and Telecommunication student** passionate about turning **
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dumindudilshan&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2CBF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dumindudilshan&bg_color=0D1117&color=00D9FF&line=7B2CBF&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 ---
 
 ## 📌 Featured Projects
