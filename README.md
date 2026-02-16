@@ -1,88 +1,140 @@
-<p align="center">
-  <a href="https://github.com/DuminduDilshan">
-    <img src="https://avatars.githubusercontent.com/u/your-avatar-id" alt="Dumindu Dilshan" width="150"/></a>
-</p>
-
 <h1 align="center">Hi 👋, I'm Dumindu Dilshan</h1>
+<h3 align="center">Electronics & Telecommunication Student | Robotics Enthusiast | Embedded Systems Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=f75c7e&center=true&vCenter=true&width=500&lines=Electronics+and+Robotics+Enthusiast;Embedded+Systems+Developer;Arduino,+ESP32,+STM32;IoT,+Automation,+3D+Printing" alt="Typing SVG">
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://i.imgur.com/yRpa1dQ.png" width="32" alt="LinkedIn"/></a>
-  &#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/your-twitter/"><img src="https://i.imgur.com/AixJgnm.png" width="32" alt="Twitter"/></a>
-  &#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@FABNEST"><img src="https://i.imgur.com/qiXu7b2.png" width="32" alt="YouTube"/></a>
-  &#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:fabnest3d@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="32" alt="Email"/></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Robotics%20%26%20Embedded%20Systems%20Developer;Arduino%20%7C%20STM32%20%7C%20ESP32%20Expert;IoT%20%26%20Automation%20Enthusiast;Swarm%20Robotics%20Researcher;Always%20building%20something%20cool!&font=Fira%20Code&center=true&width=600&height=50&color=00D9FF&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 ---
 
-## 🛠️ My Expertise
+## 🚀 About Me
 
-- **Embedded Systems & Robotics:** Arduino, ESP32, ESP32-S3 CAM, STM32, N20 motors, DRV8833, TB6612, VL53L0X, IR sensor arrays  
-- **Robotics Projects:**  
-  - Smart dustbin (perishable vs non-perishable sorting)  
-  - Wall- and line-following robot with camera web server  
-  - Microbot swarm inspired by Big Hero 6  
-  - Line-following robot with PID & calibration system  
-- **Electronics & Biomedical Projects:** Smart thermostat, inhalation airflow measurement device  
-- **Programming & Tools:** C, C++, Python, MicroPython, MATLAB, Arduino IDE, PlatformIO, Proteus, Fritzing, Onshape, Fusion360  
-- **3D Printing & Modeling:** Founder of FABNEST, providing 3D printing & modeling services  
+I'm an **Electronics and Telecommunication student** passionate about **robotics, embedded systems, and innovative hardware projects**. I love transforming ideas into real-world solutions by combining software, hardware, and automation. 
+
+From designing **microbots inspired by Big Hero 6** to **smart devices that solve daily problems**, I focus on projects that are creative, functional, and impactful.
+
+- 🔭 I'm currently working on **Swarm Robotics & Multi-Agent Coordination**
+- 🌱 I'm currently learning **Embedded AI for Real-Time Decision Making**
+- 💡 I'm interested in **PID Control Systems, Sensor Integration & IoT**
+- 🎯 2024 Goals: Build more open-source robotics projects and contribute to the maker community
+- ⚡ Fun fact: I design and 3D print custom robot parts for compact prototypes!
 
 ---
 
-## 📈 GitHub Stats
+## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DuminduDilshan&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DuminduDilshan&theme=dark&hide_border=true" alt="GitHub Streak" width="400"/>
+### 💻 Programming Languages
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
+</p>
+
+### 🤖 Robotics & Embedded Systems
+<p>
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D.svg?logo=Arduino&logoColor=white">
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A.svg?logo=Raspberry-Pi&logoColor=white">
+  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C.svg?logo=espressif&logoColor=white">
+  <img alt="STM32" src="https://img.shields.io/badge/STM32-03234B.svg?logo=stmicroelectronics&logoColor=white">
+</p>
+
+### 🧠 AI & Machine Learning
+<p>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white">
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white">
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
+  <img alt="VSCode" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white">
+  <img alt="Fusion 360" src="https://img.shields.io/badge/Fusion%20360-FF6B00.svg?logo=autodesk&logoColor=white">
+  <img alt="KiCad" src="https://img.shields.io/badge/KiCad-314CB0.svg?logo=kicad&logoColor=white">
 </p>
 
 ---
 
-## 📂 Featured Repositories
+## 🎯 Current Focus
+
+```python
+current_projects = {
+    "Swarm Robotics": "Multi-agent coordination algorithms",
+    "PID Control Systems": "Analog sensor integration & tuning",
+    "Embedded AI": "Real-time decision making in robotics",
+    "3D Prototyping": "Compact and functional robot designs"
+}
+```
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/DuminduDilshan/SmartDustbin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminduDilshan&repo=SmartDustbin&theme=dark" width="220"/></a>
-  <a href="https://github.com/DuminduDilshan/Microbot-Swarm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminduDilshan&repo=Microbot-Swarm&theme=dark" width="220"/></a>
-  <a href="https://github.com/DuminduDilshan/LineFollowingRobot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminduDilshan&repo=LineFollowingRobot&theme=dark" width="220"/></a>
-  <a href="https://github.com/DuminduDilshan/FABNEST-3DPrinting"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DuminduDilshan&repo=FABNEST-3DPrinting&theme=dark" width="220"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dumindudilshan&theme=tokyonight&hide_border=true" alt="Dumindu's streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dumindudilshan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dumindu's GitHub stats" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumindudilshan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dumindudilshan&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="48%" />
 </p>
 
 ---
 
-## 🔧 Tools & Technologies
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32-007396?logo=ESP32&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STM32-1171B6?logo=STM32&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-03599C?logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-9C033A?logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-14354C?logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MicroPython-2C2D72?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Proteus-FF6F00?logo=proteus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fritzing-FF0000?logo=fritzing&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Onshape-2D9CDB?logo=onshape&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fusion360-FF6F00?logo=fusion360&logoColor=white"/>
-  <img src="https://img.shields.io/badge/3DPrinting-009688?logo=3d-printing&logoColor=white"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dumindudilshan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 📌 Pinned Projects
 
-- **Email:** [fabnest3d@gmail.com](mailto:fabnest3d@gmail.com)  
-- **LinkedIn:** [Dumindu Dilshan](https://www.linkedin.com/in/your-linkedin/)  
-- **YouTube:** [FABNEST 3D](https://www.youtube.com/@FABNEST)  
-- **Website:** [fabnest3d.com](https://fabnest3d.com)  
+<p align="center">
+  <a href="https://github.com/dumindudilshan?tab=repositories">
+    <img src="https://img.shields.io/badge/-View%20All%20My%20Projects-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
+  </a>
+</p>
+
+<!-- Your pinned repositories will automatically appear on your GitHub profile -->
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/dumindudilshan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/dumindudil_shan">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:dumindudilshan66@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+---
+
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
 
 ---
 
 <p align="center">
-  <i>“I turn ideas into electronics and robots that solve real-world problems.”</i>
+  <img src="https://komarev.com/ghpvc/?username=dumindudilshan&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/dumindudilshan?label=Followers&style=flat-square&color=00D9FF" alt="Followers" />
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/dumindudilshan">dumindudilshan</a> - Let's build something amazing together!</i>
 </p>
