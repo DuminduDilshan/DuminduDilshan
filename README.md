@@ -2,21 +2,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2CBF&height=200&section=header&text=Dumindu%20Dilshan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Electronics+%26+Telecommunication+Student;Robotics+%7C+Embedded+Systems+%7C+IoT+Expert;From+Ideas+to+Reality+%F0%9F%9A%80;Building+the+Future%2C+One+Project+at+a+Time!" alt="Typing SVG" />
-</div>
+<h3 align="center">Electronics & Telecommunication Student</h3>
+<h3 align="center">Robotics | Embedded Systems | IoT Expert</h3>
+<h3 align="center">From Ideas to Reality 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dumindudilshan&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/dumindudilshan?label=Followers&style=for-the-badge&color=7B2CBF&labelColor=1c1917&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/dumindudilshan?label=Stars&style=for-the-badge&color=00D9FF&labelColor=1c1917&logo=github" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=dumindudilshan&label=PROFILE%20VIEWS&color=00D9FF&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/dumindudilshan?label=FOLLOWERS&style=flat-square&color=7B2CBF&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/dumindudilshan?label=STARS&style=flat-square&color=00D9FF&logo=github" alt="Stars" />
 </p>
 
 ---
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 🤖 About Me
+## 📖 About Me
 
 ```python
 class DuminduDilshan:
@@ -42,7 +42,7 @@ me.say_hi()
 
 <br/>
 
-### 💡 What I Do
+## 💡 What I Do
 
 I'm an **Electronics and Telecommunication student** passionate about turning **imagination into innovation**. From **microbots inspired by Big Hero 6** 🎬 to **smart IoT solutions** 🌐, I create projects that blend:
 
@@ -55,7 +55,7 @@ I'm an **Electronics and Telecommunication student** passionate about turning **
 ---
 
 <details open>
-<summary><b>🎯 Current Mission</b></summary>
+<summary><b>▼ 🎯 Current Mission</b></summary>
 <br/>
 
 ```yaml
@@ -67,8 +67,8 @@ I'm an **Electronics and Telecommunication student** passionate about turning **
   - Share: "Knowledge through documentation"
 ```
 
-**🔭 Now Working On:**
-- 🐝 Multi-agent swarm coordination algorithms
+**🔬 Now Working On:**
+- 🕷️ Multi-agent swarm coordination algorithms
 - 📊 Real-time PID tuning for analog sensors
 - 🧠 TinyML deployment on microcontrollers
 - 🎯 Precision motor control systems
@@ -86,25 +86,25 @@ I'm an **Electronics and Telecommunication student** passionate about turning **
 ## 🛠️ Tech Arsenal
 
 <details open>
-<summary><b>💻 Languages & Frameworks</b></summary>
+<summary><b>▼ 💻 Languages & Frameworks</b></summary>
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🤖 Robotics & Embedded</b></summary>
+<summary><b>▼ 🤖 Robotics & Embedded</b></summary>
 <br/>
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/RASPBERRY%20PI-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
@@ -112,32 +112,32 @@ I'm an **Electronics and Telecommunication student** passionate about turning **
 </details>
 
 <details open>
-<summary><b>🧠 AI & Machine Learning</b></summary>
+<summary><b>▼ 🧠 AI & Machine Learning</b></summary>
 <br/>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🔧 Tools & Platforms</b></summary>
+<summary><b>▼ 🔧 Tools & Platforms</b></summary>
 <br/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge&logo=proteus&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/FUSION%20360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white)
+![KiCad](https://img.shields.io/badge/KICAD-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Blender](https://img.shields.io/badge/BLENDER-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Proteus](https://img.shields.io/badge/PROTEUS-1C79B3?style=for-the-badge&logoColor=white)
 
 </details>
 
@@ -146,17 +146,24 @@ I'm an **Electronics and Telecommunication student** passionate about turning **
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dumindudilshan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2CBF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dumindudilshan&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2CBF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
+  
+### 📈 Contribution Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumindudilshan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&hide=jupyter%20notebook" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=dumindudilshan&bg_color=0D1117&color=00D9FF&line=7B2CBF&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</div>
+<table>
+  <tr>
+    <td align="center"><b>46</b><br/>Total Contributions<br/><sub>Apr 2, 2024 - Present</sub></td>
+    <td align="center"><b>2</b><br/>Current Streak<br/><sub>Feb 15 - Feb 16</sub></td>
+    <td align="center"><b>3</b><br/>Longest Streak<br/><sub>Jan 24 - Jan 26</sub></td>
+  </tr>
+</table>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dumindudilshan&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=dumindudilshan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2CBF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dumindudilshan&bg_color=0D1117&color=00D9FF&line=7B2CBF&point=FF6B6B&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumindudilshan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&hide=jupyter%20notebook" alt="Top Languages" />
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=dumindudilshan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" alt="GitHub Trophies" />
+
 </div>
 
 ---
@@ -164,24 +171,26 @@ I'm an **Electronics and Telecommunication student** passionate about turning **
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dumindudilshan/dumindudilshan/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dumindudilshan/dumindudilshan/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dumindudilshan/dumindudilshan/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dumindudilshan&repo=swarm-robotics&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2CBF&text_color=FFFFFF)](https://github.com/dumindudilshan?tab=repositories)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dumindudilshan&repo=smart-iot-device&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2CBF&text_color=FFFFFF)](https://github.com/dumindudilshan?tab=repositories)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dumindudilshan&repo=swarm-robotics&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2CBF&text_color=FFFFFF&description_lines_count=3)](https://github.com/dumindudilshan?tab=repositories)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dumindudilshan&repo=smart-iot-device&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2CBF&text_color=FFFFFF&description_lines_count=3)](https://github.com/dumindudilshan?tab=repositories)
 
-</div>
+<a href="https://github.com/dumindudilshan?tab=repositories">
+  <img src="https://img.shields.io/badge/📁_CLICK_TO_VIEW_ALL_MY_PROJECTS-7B2CBF?style=for-the-badge&logoColor=white" alt="All Repositories"/>
+</a>
 
-<div align="center">
-  <a href="https://github.com/dumindudilshan?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Click%20to%20View%20All%20My%20Projects-7B2CBF?style=for-the-badge&logoColor=white&logo=repo" alt="All Repositories"/>
-  </a>
 </div>
 
 ---
@@ -204,7 +213,7 @@ I'm an **Electronics and Telecommunication student** passionate about turning **
 ## 🎨 Project Showcase
 
 <details>
-<summary><b>🤖 Robotics Projects</b></summary>
+<summary><b>▶ 🤖 Robotics Projects</b></summary>
 <br/>
 
 - 🐝 **Swarm Robotics Platform** - Multi-agent coordination system
@@ -215,7 +224,7 @@ I'm an **Electronics and Telecommunication student** passionate about turning **
 </details>
 
 <details>
-<summary><b>🌐 IoT & Automation</b></summary>
+<summary><b>▶ 🌐 IoT & Automation</b></summary>
 <br/>
 
 - 🏠 **Smart Home Controller** - ESP32-based home automation
@@ -226,7 +235,7 @@ I'm an **Electronics and Telecommunication student** passionate about turning **
 </details>
 
 <details>
-<summary><b>🧠 AI & ML Projects</b></summary>
+<summary><b>▶ 🧠 AI & ML Projects</b></summary>
 <br/>
 
 - 👁️ **Object Detection System** - Real-time CV on edge devices
@@ -241,7 +250,7 @@ I'm an **Electronics and Telecommunication student** passionate about turning **
 ## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dumindudilshan&bg_color=0D1117&color=00D9FF&line=7B2CBF&point=FF6B6B&area=true&hide_border=true&height=300&custom_title=Last%2030%20Days%20Activity" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dumindudilshan&bg_color=0D1117&color=00D9FF&line=7B2CBF&point=FF6B6B&area=true&hide_border=true&height=300&custom_title=Last%2030%20Days%20Activity" alt="Activity Graph" />
 </div>
 
 ---
@@ -249,7 +258,7 @@ I'm an **Electronics and Telecommunication student** passionate about turning **
 ## 🏆 Achievements & Badges
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dumindudilshan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dumindudilshan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -265,7 +274,7 @@ I'm an **Electronics and Telecommunication student** passionate about turning **
 ## 🎵 Spotify Playing
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=7B2CBF&bar_color_cover=true" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l77y2csslbz4jzl5z2g6iggwqm&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=7B2CBF&bar_color_cover=true" alt="Spotify Now Playing" />
 </div>
 
 ---
@@ -274,23 +283,18 @@ I'm an **Electronics and Telecommunication student** passionate about turning **
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dumindudilshan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dumindudil_shan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dumindudilshan66@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dumindudilshan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/dumindudilshan)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dumindudilshan)
+[![Twitter](https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dumindudil_shan)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dumindudilshan66@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dumindudilshan)
 
-</div>
+### 🔥 Open for Collaborations!
 
-<div align="center">
-
-### 💡 Open for Collaborations!
-
-I'm always excited to work on:
-- 🤖 **Robotics & Automation Projects**
-- 🌐 **IoT & Smart Device Development**
-- 🧠 **AI-Powered Embedded Systems**
-- 🎓 **Research & Innovation**
+**I'm always excited to work on:**
+- 🤖 Robotics & Automation Projects
+- 🌐 IoT & Smart Device Development
+- 🧠 AI-Powered Embedded Systems
+- 🎓 Research & Innovation
 
 **Feel free to reach out if you want to build something cool together!**
 
@@ -327,7 +331,7 @@ const dumindu = {
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let%E2%80%99s+build+the+future+together!+%F0%9F%9A%80;Star+%E2%AD%90+my+repos+if+you+like+them!;Happy+Coding!+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+👋;Let's+build+the+future+together!+🚀;Star+⭐+my+repos+if+you+like+them!;Happy+Coding!+💻" alt="Typing SVG" />
 </div>
 
 <div align="center">
