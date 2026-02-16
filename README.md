@@ -226,30 +226,6 @@ I'm an **Electronics and Telecommunication student** passionate about turning **
 
 ---
 
-## 🏆 Achievements & Badges
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dumindudilshan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=7B2CBF&bar_color_cover=true" alt="Spotify Now Playing" />
-</div>
-
----
-
 ## 📫 Let's Connect & Collaborate!
 
 <div align="center">
