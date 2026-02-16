@@ -1,6 +1,6 @@
 🌟 Dumindu Dilshan – Robotics & Embedded Systems Engineer
 
-![](https://komarev.com/ghpvc/?username=DuminduDilshan&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=DuminduDilshan&color=brightgreen&style=plastic)
 
 👋 Hi there! Welcome to my GitHub.
 
