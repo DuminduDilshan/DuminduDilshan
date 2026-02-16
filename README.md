@@ -20,4 +20,4 @@ IoT & Smart Devices – Smart thermostats, smart dustbins, and environmental mon
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DuminduDilshan&theme=blue-green&hide_border=true&border_radius=4.7&short_numbers=true&card_width=1000)](https://git.io/streak-stats)
 
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
