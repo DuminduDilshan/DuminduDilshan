@@ -59,7 +59,7 @@ I'm an **Electronics and Telecommunication student** passionate about turning **
 <br/>
 
 ```yaml
-2024_Goals:
+2026_Goals:
   - Build: "Advanced swarm robotics platform"
   - Learn: "ROS2 for robot operating systems"
   - Contribute: "Open-source robotics projects"
