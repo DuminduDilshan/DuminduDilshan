@@ -1,5 +1,7 @@
 🌟 Dumindu Dilshan – Robotics & Embedded Systems Engineer
 
+![](https://komarev.com/ghpvc/?username=DuminduDilshan&color=000000)
+
 👋 Hi there! Welcome to my GitHub.
 
 I’m Dumindu Dilshan, an electronics and robotics enthusiast specializing in embedded systems, microcontrollers, and autonomous robotics. I love turning innovative ideas into working prototypes, from microbots to smart IoT devices.
