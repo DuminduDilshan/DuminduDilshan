@@ -1,16 +1,15 @@
-## Hi there 👋
+🌟 Dumindu Dilshan – Robotics & Embedded Systems Engineer
 
-<!--
-**DuminduDilshan/DuminduDilshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! Welcome to my GitHub.
 
-Here are some ideas to get you started:
+I’m Dumindu Dilshan, an electronics and robotics enthusiast specializing in embedded systems, microcontrollers, and autonomous robotics. I love turning innovative ideas into working prototypes, from microbots to smart IoT devices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Focus
+
+Swarm Robotics & Microbots – Inspired by Big Hero 6, designing autonomous bots that collaborate in real-time.
+
+Embedded Systems Development – Arduino, STM32, ESP32, Raspberry Pi projects with sensors, actuators, and motor drivers.
+
+Robotics Automation – Wall-following, line-following, and PID-controlled robots.
+
+IoT & Smart Devices – Smart thermostats, smart dustbins, and environmental monitoring devices.
