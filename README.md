@@ -156,7 +156,23 @@ I'm an **Electronics and Telecommunication student** passionate about turning **
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dumindudilshan&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
+<dir> 
+  <!-- GitHub Stats -->
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=dumindudilshan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7b2cbf&text_color=ffffff&count_private=true&include_all_commits=true" />
+</p>
 
+<!-- Top Languages -->
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumindudilshan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8" />
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=dumindudilshan&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+</dir>
 ---
 
 ## 🐍 Contribution Snake
